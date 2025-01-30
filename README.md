@@ -146,6 +146,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 For any questions or suggestions, please contact:
 
-- **Mohit**
-- **GitHub**: [mohit0825](https://github.com/mohit0825)
+•	Ayush Raj
+	•	Email: ar5787@srmist.edu.in
+	•	GitHub: Ayushomega14
 
