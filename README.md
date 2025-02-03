@@ -132,7 +132,7 @@ Contributions are welcome! If you’d like to contribute, please follow these st
    ```sh
    git push origin feature-branch
    ```
-5. Create a new Pull Request.
+5. Create a new  Pull Request.
 
 ---
 
