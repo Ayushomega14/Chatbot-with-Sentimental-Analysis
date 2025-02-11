@@ -47,7 +47,7 @@ Based on the sentiment, the chatbot generates an appropriate response to continu
 - **Dynamic Responses**: Generates chatbot responses based on the detected sentiment.
 - **Interactive Chatbot**: Continuously engages in conversation until the user exits.
 - **Multi-class Sentiment Detection**: Detects five levels of sentiment (Very Negative to Very Positive).
-- **User-Friendly CLI Interface**: Simple and interactive terminal-based chatbot.
+- **User-Friendly CLI Interface**: Simple and interactive terminal-based chatbot reaction.
 
 ---
 
